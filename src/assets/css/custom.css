@@ -1,10 +1,15 @@
 .title {
-    text-align: center;
-    font-size: x-large;
+  text-align: center;
+  font-size: x-large;
 }
 
 .avatar-img {
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-  }
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+}
+
+.loadMore {
+  display: block;
+  margin: 10px auto;
+}
